@@ -1,0 +1,27 @@
+C:\Users\mzk00\source\repos\Launcher\bin\StableShipping\GoyangDy.TTF
+C:\Users\mzk00\source\repos\Launcher\bin\StableShipping\Launcher.exe.config
+C:\Users\mzk00\source\repos\Launcher\bin\StableShipping\Launcher.exe
+C:\Users\mzk00\source\repos\Launcher\obj\StableShipping\Launcher.Form1.resources
+C:\Users\mzk00\source\repos\Launcher\obj\StableShipping\Launcher.Properties.Resources.resources
+C:\Users\mzk00\source\repos\Launcher\obj\StableShipping\Launcher.csproj.GenerateResource.cache
+C:\Users\mzk00\source\repos\Launcher\obj\StableShipping\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\mzk00\source\repos\Launcher\obj\StableShipping\Launcher.exe
+E:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.Form1.resources
+E:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.Properties.Resources.resources
+E:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.GenerateResource.cache
+E:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.CoreCompileInputs.cache
+E:\Visual\Project Files\Launcher\bin\StableShipping\FONT.TTF
+E:\Visual\Project Files\Launcher\bin\StableShipping\VOCALINE Launcher.exe.config
+E:\Visual\Project Files\Launcher\bin\StableShipping\VOCALINE Launcher.exe
+E:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.AssemblyReference.cache
+E:\Visual\Project Files\Launcher\obj\StableShipping\VOCALINE Launcher.exe
+D:\Visual\Project Files\Launcher\bin\StableShipping\FONT.TTF
+D:\Visual\Project Files\Launcher\bin\StableShipping\VOCALINE Launcher.exe.config
+D:\Visual\Project Files\Launcher\bin\StableShipping\VOCALINE Launcher.exe
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.AssemblyReference.cache
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.Form1.resources
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.Properties.Resources.resources
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.GenerateResource.cache
+D:\Visual\Project Files\Launcher\obj\StableShipping\Launcher.csproj.CoreCompileInputs.cache
+D:\Visual\Project Files\Launcher\obj\StableShipping\VOCALINE Launcher.exe
